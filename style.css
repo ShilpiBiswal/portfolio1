@@ -229,6 +229,7 @@ ul {
   }
   .landing-page .content .image img {
     max-width: 150%;
+    max-height:100%
   }
   .info {
     flex: 1.5; 
