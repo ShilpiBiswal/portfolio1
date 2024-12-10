@@ -228,7 +228,7 @@ ul {
     background-color: #6c63ff;
   }
   .landing-page .content .image img {
-    max-width: 100%;
+    max-width: 200%;
   }
   .info {
     flex: 1.5; 
